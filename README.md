@@ -12,7 +12,7 @@
    python -m venv venv
    source ./venv/Scripts/activate
    python -m pip install -r requirements.txt
-2. Створити папку `data` та додати в неї два файли з назвами в форматі `OdataXXXXFile.csv`
+2. Створити папку `data` та додати в неї два файли `Odata2019File.csv` та `Odata2020File.csv`
 3. Запустити `MongoDB`
 4. Запусити команду `python main.py`
 
