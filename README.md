@@ -8,7 +8,7 @@
 ## Інструкція по запуску:
 
 1. Створити віртуальне середовище наступними командами:
-   ``python -m pip install virtualenv
+   ```python -m pip install virtualenv
    python -m venv venv
    source ./venv/Scripts/activate
    python -m pip install -r requirements.txt``
