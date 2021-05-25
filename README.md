@@ -11,7 +11,7 @@
    ```python -m pip install virtualenv
    python -m venv venv
    source ./venv/Scripts/activate
-   python -m pip install -r requirements.txt``
+   python -m pip install -r requirements.txt
 2. Додати у папку `data` два файли з назвами в форматі `OdataXXXXFile.csv`
 3. Запустити `MongoDB`
 4. Запусити команду `python main.py`
