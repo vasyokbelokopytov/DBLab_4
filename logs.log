@@ -1,0 +1,10 @@
+2021-05-26 02:07:50,496: Start time 2021-05-26 02:07:50.496843
+2021-05-26 02:07:50,716: Inserting data from file for with year 2019
+2021-05-26 02:10:02,664: Inserting Odata2019File.csv data is finished in 0:02:11.946943
+2021-05-26 02:10:02,664: Inserting data from file for with year 2020
+2021-05-26 02:12:02,384: Inserting Odata2020File.csv data is finished in 0:01:59.718504
+2021-05-26 02:12:02,385: End time 2021-05-26 02:12:02.384198
+2021-05-26 02:12:02,385: All files Inserting time 0:04:11.887355
+2021-05-26 02:12:02,385: Query execution...
+2021-05-26 02:12:11,366: Query data was recorded.
+2021-05-26 02:12:11,367: Program is finished
